@@ -1,0 +1,17 @@
+D:\code\TestApp\Hubs\obj\Debug\ResolveAssemblyReference.cache
+D:\code\TestApp\Hubs\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\code\TestApp\Hubs\bin\Debug\Newtonsoft.Json.dll
+D:\code\TestApp\Hubs\bin\Debug\SignalR.dll
+D:\code\TestApp\Hubs\bin\Debug\SignalR.Hosting.AspNet.dll
+D:\code\TestApp\Hubs\bin\Debug\SignalR.Hosting.Common.dll
+D:\code\TestApp\Hubs\bin\Debug\StructureMap.dll
+D:\code\TestApp\Hubs\bin\Debug\Newtonsoft.Json.xml
+D:\code\TestApp\Hubs\bin\Debug\SignalR.xml
+D:\code\TestApp\Hubs\bin\Debug\SignalR.Hosting.AspNet.xml
+D:\code\TestApp\Hubs\bin\Debug\SignalR.Hosting.Common.xml
+D:\code\TestApp\Hubs\bin\Debug\StructureMap.pdb
+D:\code\TestApp\Hubs\bin\Debug\StructureMap.xml
+D:\code\TestApp\Hubs\bin\Debug\Core.dll
+D:\code\TestApp\Hubs\bin\Debug\Core.pdb
+D:\code\TestApp\Hubs\obj\Debug\Core.dll
+D:\code\TestApp\Hubs\obj\Debug\Core.pdb

@@ -1,0 +1,5 @@
+D:\code\TestApp\Messages\bin\Debug\Messages.dll
+D:\code\TestApp\Messages\bin\Debug\Messages.pdb
+D:\code\TestApp\Messages\obj\Debug\ResolveAssemblyReference.cache
+D:\code\TestApp\Messages\obj\Debug\Messages.dll
+D:\code\TestApp\Messages\obj\Debug\Messages.pdb
